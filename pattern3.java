@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Pattern3
+class pattern3
 {
     int n;
     void getData()
@@ -19,7 +19,7 @@ class Pattern3
     }
     public static void main()
     {
-        Pattern3 obj=new Pattern3();
+        pattern3 obj=new pattern3();
     obj.getData();
     obj.generatePattern();
 }
