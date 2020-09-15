@@ -1,4 +1,4 @@
-public class volume
+public class cube1
 {
     double ans;
     double n1;
@@ -22,7 +22,7 @@ public class volume
     }
     public static void main()
     {
-    volume obj=new volume();
+    cube1 obj=new cube1();
     obj.init(6,8,3);
     obj.calc();
     obj.display();
