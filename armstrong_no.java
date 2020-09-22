@@ -29,7 +29,7 @@ public class armstrong_no
      
      System.out.println(n+"not an Armstrong number");
 }
-public static void main()
+public static void main(String args[])
 {
 armstrong_no obj=new armstrong_no();
 obj.getData();
