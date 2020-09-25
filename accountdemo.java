@@ -1,6 +1,6 @@
- class accountDemo
-    {
-        public static void main(String args[])
+public class accountdemo
+{
+     public static void main(String args[])
         {
         account my_acc=new account();
         my_acc.startAccount(22000);
